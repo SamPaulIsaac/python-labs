@@ -1,5 +1,0 @@
-sudo apt update
-sudo apt install python3-venv
-python3 -m venv ~/venvs/excel-env     //custom name
-source ~/venvs/excel-env/bin/activate
-deactivate
